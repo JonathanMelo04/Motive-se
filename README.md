@@ -1,6 +1,6 @@
 # frases
 
-Um primeiro passo no flutter!
+Um primeiro passo flutter!
 
 ## Getting Started
 
